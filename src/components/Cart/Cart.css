@@ -4,3 +4,15 @@
     position: sticky;
     top: 0;
 }
+.btn-clear-cart{
+    color: white;
+    height: 56px;
+    font-size: 21px;
+    width: 90%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    background: brown;
+}
